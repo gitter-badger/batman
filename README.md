@@ -8,7 +8,7 @@
 
 _From left to right:_
 
-+ `$HOME` directory abbreviated to `^`
++ `$HOME` directory abbreviated to `^^`
 + Path to current working directory is abbreviated.
 + Arrow symbol `>>>` becomes red if last `$status` was `!= 0`
 + Display exit status for non zero codes (Not shown in the picture)

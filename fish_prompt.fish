@@ -5,7 +5,7 @@ function fish_prompt
   set -l base (basename (prompt_pwd))
 
   printf (echo $prompt \
-    | sed "s|~|"(fst)"^"(off)"|g" \
+    | sed "s|~|"(fst)"^^"(off)"|g" \
     | sed "s|/|"(snd)"/"(off)"|g" \
     | sed "s|"$base"|"(fst)$base(off)" |g")(off)
 

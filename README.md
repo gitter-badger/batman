@@ -1,16 +1,15 @@
-![](https://img.shields.io/badge/Wahoo-Theme-00b0ff.svg?style=flat-square)
+[![](https://img.shields.io/badge/Wahoo-Theme-00b0ff.svg?style=flat-square)][Wahoo]
 ![](https://img.shields.io/badge/License-MIT-707070.svg?style=flat-square)
 
-
 #  _Batman_ <img width="20px" src="https://cloud.githubusercontent.com/assets/8317250/7785620/0059f784-01d3-11e5-8a01-8edf6c4e2af7.png">
-> Batman's Inspired [Fishshell](fishshell.com) Theme
+> [Fishshell](fishshell.com) Theme inspired by Batman.
 
 ## Features
 
 _From left to right:_
 
 + `$HOME` directory abbreviated to `^`
-+ Abbreviated paths to the current working directory.
++ Path to current working directory is abbreviated.
 + Arrow symbol `>>>` becomes red if last `$status` was `!= 0`
 + Display exit status for non zero codes (Not shown in the picture)
 + `^` character denotes the current repository has [_stashed_](https://git-scm.com/book/no-nb/v1/Git-Tools-Stashing) changes.
@@ -19,6 +18,8 @@ _From left to right:_
 + Display number of commits in relation to the current branch.
 + Display current time.
 + _Batman_ inspired colors.
+
+## Screenshot
 
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/8317250/7785603/194f7742-01d2-11e5-9a85-de7b1dce0db9.png">
@@ -31,3 +32,4 @@ _From left to right:_
 
 [MIT](http://opensource.org/licenses/MIT) © [Jorge Bucaran][Author] et [al](https://github.com/bucaran/batman/graphs/contributors)
 [Author]: http://about.bucaran.me
+[Wahoo]: https://github.com/bucaran/wahoo

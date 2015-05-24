@@ -22,7 +22,7 @@ _From left to right:_
 ## Screenshot
 
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/8317250/7785603/194f7742-01d2-11e5-9a85-de7b1dce0db9.png">
+<img src="https://cloud.githubusercontent.com/assets/8317250/7788702/8ae84014-0281-11e5-9082-f528002e45ed.png">
 </p>
 
 # License

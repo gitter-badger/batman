@@ -2,6 +2,8 @@
 ![](https://img.shields.io/badge/License-MIT-707070.svg?style=flat-square)
 
 #  _Batman_ <img width="20px" src="https://cloud.githubusercontent.com/assets/8317250/7785620/0059f784-01d3-11e5-8a01-8edf6c4e2af7.png">
+
+[![Join the chat at https://gitter.im/bucaran/batman](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bucaran/batman?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > [Fishshell](fishshell.com) Theme inspired by Batman.
 
 ## Features
